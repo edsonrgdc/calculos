@@ -1,7 +1,7 @@
 
-function areaTriângulo() { return (b*h)/2} area()
+function areaTriangulo() { return (b*h)/2} areaTriangulo()
 
-console.log('resultado', area())
+console.log('resultado', areaTriangulo())
 
 
 function mediaAritmetica() { return (5+5+5+5)/4} mediaAritmetica()
